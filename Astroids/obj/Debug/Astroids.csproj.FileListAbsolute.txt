@@ -1,0 +1,84 @@
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\bin\Debug\Astroids.exe.config
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\bin\Debug\Astroids.exe
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\bin\Debug\Astroids.pdb
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\obj\Debug\Astroids.csprojResolveAssemblyReference.cache
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\obj\Debug\MainWindow.g.cs
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\obj\Debug\App.g.cs
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.cache
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.lref
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\obj\Debug\MainWindow.baml
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\obj\Debug\Astroids.g.resources
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\obj\Debug\Astroids.Properties.Resources.resources
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\obj\Debug\Astroids.csproj.GenerateResource.Cache
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\obj\Debug\Astroids.exe
+c:\users\jcxd2\documents\visual studio 2015\Projects\Astroids\Astroids\obj\Debug\Astroids.pdb
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\bin\Debug\Astroids.exe.config
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\obj\Debug\Astroids.exe
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\obj\Debug\Astroids.pdb
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\bin\Debug\Astroids.exe
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\bin\Debug\Astroids.pdb
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\obj\Debug\Astroids.csprojResolveAssemblyReference.cache
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\obj\Debug\MainWindow.g.cs
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\obj\Debug\App.g.cs
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.cache
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.lref
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\obj\Debug\MainWindow.baml
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\obj\Debug\Astroids.g.resources
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\obj\Debug\Astroids.Properties.Resources.resources
+C:\Users\murin\Desktop\fernando\Escuela\Programas\Astroids\Astroids\obj\Debug\Astroids.csproj.GenerateResource.Cache
+C:\Users\JcXD2\Desktop\Astroids\Astroids\bin\Debug\Astroids.exe.config
+C:\Users\JcXD2\Desktop\Astroids\Astroids\obj\Debug\Astroids.exe
+C:\Users\JcXD2\Desktop\Astroids\Astroids\obj\Debug\Astroids.pdb
+C:\Users\JcXD2\Desktop\Astroids\Astroids\bin\Debug\Astroids.exe
+C:\Users\JcXD2\Desktop\Astroids\Astroids\bin\Debug\Astroids.pdb
+C:\Users\JcXD2\Desktop\Astroids\Astroids\obj\Debug\Astroids.csprojResolveAssemblyReference.cache
+C:\Users\JcXD2\Desktop\Astroids\Astroids\obj\Debug\MainWindow.g.cs
+C:\Users\JcXD2\Desktop\Astroids\Astroids\obj\Debug\App.g.cs
+C:\Users\JcXD2\Desktop\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.cache
+C:\Users\JcXD2\Desktop\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.lref
+C:\Users\JcXD2\Desktop\Astroids\Astroids\obj\Debug\MainWindow.baml
+C:\Users\JcXD2\Desktop\Astroids\Astroids\obj\Debug\Astroids.g.resources
+C:\Users\JcXD2\Desktop\Astroids\Astroids\obj\Debug\Astroids.Properties.Resources.resources
+C:\Users\JcXD2\Desktop\Astroids\Astroids\obj\Debug\Astroids.csproj.GenerateResource.Cache
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\bin\Debug\Astroids.exe.config
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\obj\Debug\Astroids.exe
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\obj\Debug\Astroids.pdb
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\bin\Debug\Astroids.exe
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\bin\Debug\Astroids.pdb
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\obj\Debug\Astroids.csprojResolveAssemblyReference.cache
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\obj\Debug\MainWindow.g.cs
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\obj\Debug\App.g.cs
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.cache
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.lref
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\obj\Debug\MainWindow.baml
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\obj\Debug\Astroids.g.resources
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\obj\Debug\Astroids.Properties.Resources.resources
+C:\Users\JcXD2\OneDrive\Astroids\Astroids\obj\Debug\Astroids.csproj.GenerateResource.Cache
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\bin\Debug\Astroids.exe.config
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\obj\Debug\Astroids.exe
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\obj\Debug\Astroids.pdb
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\bin\Debug\Astroids.exe
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\bin\Debug\Astroids.pdb
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\obj\Debug\Astroids.csprojResolveAssemblyReference.cache
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\obj\Debug\MainWindow.g.cs
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\obj\Debug\App.g.cs
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.cache
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.lref
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\obj\Debug\MainWindow.baml
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\obj\Debug\Astroids.g.resources
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\obj\Debug\Astroids.Properties.Resources.resources
+C:\Users\murin\Desktop\PROYECTO JERRY\Astroids\Astroids\obj\Debug\Astroids.csproj.GenerateResource.Cache
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\bin\Debug\Astroids.exe.config
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\obj\Debug\Astroids.exe
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\obj\Debug\Astroids.pdb
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\bin\Debug\Astroids.exe
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\bin\Debug\Astroids.pdb
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\obj\Debug\Astroids.csprojResolveAssemblyReference.cache
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\obj\Debug\MainWindow.g.cs
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\obj\Debug\App.g.cs
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.cache
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\obj\Debug\Astroids_MarkupCompile.lref
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\obj\Debug\MainWindow.baml
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\obj\Debug\Astroids.g.resources
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\obj\Debug\Astroids.Properties.Resources.resources
+C:\Users\JcXD2\Documents\Proyectos\Astroids\Astroids\obj\Debug\Astroids.csproj.GenerateResource.Cache
